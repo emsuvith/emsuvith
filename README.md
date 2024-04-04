@@ -1,16 +1,29 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-<!--
-**emsuvith/emsuvith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>YouTube Resources</h1>
 
-Here are some ideas to get you started:
+<table border="2">
+    <thead>
+        <tr>
+            <th>Topic</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Learn Vim, Neovim, Tmux</td>
+            <td><a href="https://www.youtube.com/watch?v=yW0A6Je3bXI">Video Link</a></td>
+        </tr>
+        <!-- Add more rows for additional resources -->
+    </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
+
